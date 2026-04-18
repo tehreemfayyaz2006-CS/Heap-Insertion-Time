@@ -23,12 +23,12 @@ O(log n)
 because in the worst case, the element moves from the bottom to the root of the heap.
 
 ## Tools & Technologies
-- Programming Language: (C++ / Java / Python — jo tumne use kiya hai likho)
+- Programming Language: (C++)
 - Concepts: Data Structures  
 
 ## Learning Outcome
 This project helped me understand how efficient data structures like heaps work and how time complexity affects performance.
-## Programming Langyage: 
+## Programming Language: 
 Java
 
 ## Author
